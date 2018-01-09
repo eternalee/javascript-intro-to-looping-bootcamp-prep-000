@@ -1,3 +1,11 @@
+for ()
+
+
+
+
+
+
+
 let countdown = 
 
 function whileLoop() {
